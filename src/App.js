@@ -9,7 +9,7 @@ function App() {
       <Router>
         <Header></Header>
         <Switch>
-          <Route path='/home'>
+          <Route path='/'>
             <Home></Home>
           </Route>
         </Switch>

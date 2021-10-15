@@ -1,0 +1,13 @@
+.banner{
+    background: url('https://i.ibb.co/LzhF7mL/bannerbackground.png') left top no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+.input-style{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.button-style{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

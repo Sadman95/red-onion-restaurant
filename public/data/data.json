@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/gZ9hTbk/breakfast1.png",
+        "title": "Bagel & cream cheese",
+        "sub_title": "Real taste of bagel featuring cheese",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 6.99
+    },
+    {
+        "id": 2,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/WknMwZ5/breakfast2.png",
+        "title": "Breakfast sandwich",
+        "sub_title": "Real taste of breakfast sandwich",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 9.99
+    },
+    {
+        "id": 3,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/d5g4NKB/breakfast3.png",
+        "title": "Baked chicken",
+        "sub_title": "Real taste of baked chicken",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 10.99
+    },
+    {
+        "id": 4,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/SBMWH4p/breakfast4.png",
+        "title": "Eggs benedict",
+        "sub_title": "Real taste of eggs benedict",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 8.99
+    },
+    {
+        "id": 5,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/NrrRB0n/breakfast5.png",
+        "title": "Toast Croissant Fried Egg",
+        "sub_title": "Real taste of toast croissant Fried Egg",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 19.99
+    },
+    {
+        "id": 6,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/pry8tGk/breakfast6.png",
+        "title": "Full Breakfast Fried Egg Toast Brunch",
+        "sub_title": "Real taste of bagel featuring cheese",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 3.99
+    },
+    {
+        "id": 7,
+        "category": "lunch",
+        "img_url": "https://i.ibb.co/M2FcrVy/lunch1.png",
+        "title": "Healthy Meal Plan",
+        "sub_title": "Real taste of healthy meal",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 23.99
+    },
+    {
+        "id": 8,
+        "category": "lunch",
+        "img_url": "https://i.ibb.co/0G6Hh8c/lunch2.png",
+        "title": "Fried Chicken Bento",
+        "sub_title": "Real taste of fried chicken bento",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 9.99
+    },
+    {
+        "id": 9,
+        "category": "lunch",
+        "img_url": "https://i.ibb.co/MGtDsbw/lunch3.png",
+        "title": "Tarragon Rubbed Salmon",
+        "sub_title": "Real taste of rubbed salmon",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 6.99
+    },
+    {
+        "id": 10,
+        "category": "lunch",
+        "img_url": "https://i.ibb.co/6ymHXm3/lunch4.png",
+        "title": "Indian Lunch",
+        "sub_title": "Real taste of indian lunch",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 8.99
+    },
+    {
+        "id": 11,
+        "category": "lunch",
+        "img_url": "https://i.ibb.co/hmr3JXZ/lunch5.png",
+        "title": "Beef Steak",
+        "sub_title": "Real taste of beef steak",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 15.99
+    },
+    {
+        "id": 12,
+        "category": "lunch",
+        "img_url": "https://i.ibb.co/JHgSLF9/lunch6.png",
+        "title": "Honey Soy Glazed Salmon with Salmon",
+        "sub_title": "Real taste of glazed salmon",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 7.99
+    },
+    {
+        "id": 13,
+        "category": "dinner",
+        "img_url": "https://i.ibb.co/0jbj88q/dinner1.png",
+        "title": "Salmon with Grapefruit & Lentil Salad",
+        "sub_title": "Real taste of salmon with lentil salad",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 9.99
+    },
+    {
+        "id": 14,
+        "category": "dinner",
+        "img_url": "https://i.ibb.co/hXMNG6F/dinner2.png",
+        "title": "Lamony Salmon Piccata",
+        "sub_title": "Real taste of salmon with piccata",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 10.99
+    },
+    {
+        "id": 15,
+        "category": "dinner",
+        "img_url": "https://i.ibb.co/jVKtvZg/dinner3.png",
+        "title": "Pork Tenderloin with Quinoa Pilaf",
+        "sub_title": "Real taste of tenderloin with quinoa",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 12.99
+    },
+    {
+        "id": 16,
+        "category": "dinner",
+        "img_url": "https://i.ibb.co/XVpf9tM/dinner4.png",
+        "title": "French fries with Cheese",
+        "sub_title": "Real taste of french fries with cheese",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 8.99
+    },
+    {
+        "id": 17,
+        "category": "dinner",
+        "img_url": "https://i.ibb.co/KhTYKWY/dinner5.png",
+        "title": "Gurlic Butter Baked Salmon",
+        "sub_title": "Real taste of gurlic with baked salmon",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 6.99
+    },
+    {
+        "id": 18,
+        "category": "dinner",
+        "img_url": "https://i.ibb.co/mXYZ7fJ/dinner6.png",
+        "title": "Baked Chicken",
+        "sub_title": "Real taste of baked chiken",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 9.99
+    }
+]

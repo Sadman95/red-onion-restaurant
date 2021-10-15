@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/gZ9hTbk/breakfast1.png",
+        "title": "Bagel & cream cheese",
+        "sub_title": "Real taste of bagel featuring cheese",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 6.99
+    },
+    {
+        "id": 2,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/WknMwZ5/breakfast2.png",
+        "title": "Breakfast sandwich",
+        "sub_title": "Real taste of breakfast sandwich",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 9.99
+    },
+    {
+        "id": 3,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/d5g4NKB/breakfast3.png",
+        "title": "Baked chicken",
+        "sub_title": "Real taste of baked chicken",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 10.99
+    },
+    {
+        "id": 4,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/SBMWH4p/breakfast4.png",
+        "title": "Eggs benedict",
+        "sub_title": "Real taste of eggs benedict",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 8.99
+    },
+    {
+        "id": 5,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/NrrRB0n/breakfast5.png",
+        "title": "Toast Croissant Fried Egg",
+        "sub_title": "Real taste of toast croissant Fried Egg",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 19.99
+    },
+    {
+        "id": 6,
+        "category": "breakfast",
+        "img_url": "https://i.ibb.co/pry8tGk/breakfast6.png",
+        "title": "Full Breakfast Fried Egg Toast Brunch",
+        "sub_title": "Real taste of bagel featuring cheese",
+        "description": "Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.Provides with extra cheese.You will get real taste of food.",
+        "price": 3.99
+    }
+]
